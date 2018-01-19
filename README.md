@@ -1,6 +1,14 @@
 # Readme
 
-MRP Steps:
+This project implements methods that make it easier to use `pystan` and `stan-arm` (R package) for multi-level regression and post-stratification (MRP).
+
+NOTE: this repository is in an early stage of development and is not suitable for general use.
+
+## Usage
+
+coming soon...
+
+## MRP Steps
 
 1. Create individual-level response dataset.
 2. Create poststratification dataset.
